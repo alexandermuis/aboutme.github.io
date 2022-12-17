@@ -10,8 +10,7 @@
   <h1>Hello Gaes, ada nih jauh-jauh sampai ke sini?</h1>
     <p>Orang kepo sesuatu karena mereka ingin mengetahui atau memahami sesuatu dengan lebih jelas. Mereka mungkin merasa penasaran tentang sesuatu atau merasa ingin mengetahui lebih banyak tentang sesuatu. Kepo juga dapat berasal dari keinginan untuk belajar atau memperluas pengetahuan seseorang tentang sesuatu. Ada banyak alasan mengapa orang mungkin kepo sesuatu, dan ini bisa bervariasi dari orang ke orang.</p>
     
-    <a href="https://rekblogging.com">blog seo</a>
-    <a href="https://www.rezalmuis.com">my blog</a>
+
  
   </body>
 </html>
